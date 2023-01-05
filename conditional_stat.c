@@ -54,7 +54,7 @@ int main()
     }
     else
     {
-        printf("Greater than zero");
+        printf("Greater than 9");
     }
 
     return 0;
