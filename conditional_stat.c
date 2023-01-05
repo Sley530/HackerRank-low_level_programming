@@ -10,7 +10,16 @@
 
 char* readline();
 
-
+/*
+ * main - program entry point
+ *
+ * Description: this program will print the numbers in letters
+ * till nine (9)
+ * other than that it will print greater than 9
+ * by this constraints - 1 <= n <= 10^9
+ * 
+ * Return: (0) if successful
+ */
 
 int main()
 {
