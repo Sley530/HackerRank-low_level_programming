@@ -20,7 +20,42 @@ int main()
 
     if (n_endptr == n_str || *n_endptr != '\0') { exit(EXIT_FAILURE); }
 
-    // Write Your Code Here
+    if (n == 1)
+    {
+        printf("one");
+    }
+    else if (n == 2)
+    {
+        printf("two");
+    }
+    else if (n == 3)
+    {
+        printf("three");
+    }
+    else if (n == 4)
+    {
+        printf("four");
+    }
+    else if (n == 5)
+    {
+        printf("five");
+    }
+    else if (n == 6)
+    {
+        printf("six");
+    }
+    else if (n == 7)
+    {
+        printf("seven");
+    }
+    else if (n == 8)
+    {
+        printf("eight");
+    }
+    else
+    {
+        printf("Greater than zero");
+    }
 
     return 0;
 }
