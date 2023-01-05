@@ -52,6 +52,10 @@ int main()
     {
         printf("eight");
     }
+    else if (n == 9)
+    {
+        printf("nine");
+    }
     else
     {
         printf("Greater than 9");
