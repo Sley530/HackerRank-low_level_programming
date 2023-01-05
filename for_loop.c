@@ -3,7 +3,17 @@
 #include <math.h>
 #include <stdlib.h>
 
-
+/*
+ * main- program entry point
+ * 
+ * Description: This program will print the number n that is
+ * in the intervall of [a, b]
+ * it will print the nuber in english letters if n is in
+ * the intervall 1 <= n <= 9
+ * Otherwise it will print if n is 'even' or 'odd'
+ * 
+ * Return: (0) if successful
+ */
 
 int main() 
 {
