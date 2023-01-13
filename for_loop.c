@@ -19,7 +19,7 @@ int main()
 {
     int a, b;
     scanf("%d\n%d", &a, &b);
-  	// Complete the code.
+  	
 
     for (int n = a; n <= b; n++)
     {
