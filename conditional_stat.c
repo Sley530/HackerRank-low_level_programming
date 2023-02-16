@@ -17,8 +17,9 @@ char* readline();
  * till nine (9)
  * other than that it will print greater than 9
  * by this constraints - 1 <= n <= 10^9
- * 
+ *
  * Return: (0) if successful
+ *
  */
 
 int main()
